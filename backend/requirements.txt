@@ -1,0 +1,7 @@
+flask
+requests
+brainflow
+matplotlib
+numpy
+openai
+python-dotenv
