@@ -8,15 +8,6 @@ This project integrates BrainFlow-based EEG filtering with OpenAI’s GPT model 
 
 ---
 
-## 📁 Project Structure
-
-backend/
-├── mcp_server.py # EEG data filtering and feature extraction
-├── openai_agent.py # GPT-4 powered natural language query handler
-├── requirements.txt # Python dependencies
-
----
-
 ## 🔧 Requirements
 
 - Python 3.10+
